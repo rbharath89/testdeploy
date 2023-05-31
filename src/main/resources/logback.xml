@@ -25,7 +25,7 @@
                     <fileFieldName>file</fileFieldName>
                 </callerData>
                 <threadName>
-                    <fieldName>threads</fieldName>
+                    <fieldName>thread</fieldName>
                 </threadName>
                 <mdc />
                 <arguments>
